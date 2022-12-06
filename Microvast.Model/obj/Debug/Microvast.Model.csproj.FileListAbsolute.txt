@@ -1,0 +1,31 @@
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\Microvast.Model.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\Microvast.Model.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\SqlSugar.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.AssemblyReference.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.CoreCompileInputs.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\Microvast.Model.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\Microvast.Model.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\bin\Debug\SqlSugar.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.AssemblyReference.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.CoreCompileInputs.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Model\obj\Debug\Microvast.Model.pdb
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\bin\Debug\Microvast.Model.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\bin\Debug\Microvast.Model.pdb
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\bin\Debug\SqlSugar.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\obj\Debug\Microvast.Model.csproj.AssemblyReference.cache
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\obj\Debug\Microvast.Model.csproj.CoreCompileInputs.cache
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\obj\Debug\Microvast.Model.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Model\obj\Debug\Microvast.Model.pdb
+E:\微宏git二次拉取\Microvast.Model\bin\Debug\Microvast.Model.dll
+E:\微宏git二次拉取\Microvast.Model\bin\Debug\Microvast.Model.pdb
+E:\微宏git二次拉取\Microvast.Model\bin\Debug\SqlSugar.dll
+E:\微宏git二次拉取\Microvast.Model\obj\Debug\Microvast.Model.csproj.CoreCompileInputs.cache
+E:\微宏git二次拉取\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
+E:\微宏git二次拉取\Microvast.Model\obj\Debug\Microvast.Model.dll
+E:\微宏git二次拉取\Microvast.Model\obj\Debug\Microvast.Model.pdb

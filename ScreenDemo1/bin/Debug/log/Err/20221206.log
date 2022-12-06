@@ -1,0 +1,188 @@
+
+
+发生时间：2022_12_06 11:26:38    SqlSugar.SqlSugarException: 中文提示 :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，错误信息：无法打开登录所请求的数据库 "db"。登录失败。
+用户 'sa' 登录失败。.
+English Message : Connection open error . 无法打开登录所请求的数据库 "db"。登录失败。
+用户 'sa' 登录失败。
+   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 SqlSugar.QueryableProvider`1.First()
+   在 SqlSugar.QueryableProvider`1.First(Expression`1 expression)
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 102
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+发生时间：2022_12_06 11:28:31    System.Data.SqlClient.SqlException (0x80131904): 对象名 '生产工单' 无效。
+   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+ClientConnectionId:6106166b-4fd3-4ed1-b406-d8b7bf5268a3
+Error Number:208,State:1,Class:16
+
+
+发生时间：2022_12_06 11:46:58    System.Data.SqlClient.SqlException (0x80131904): 对象名 '生产工单' 无效。
+   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+ClientConnectionId:27ea98b8-e784-4ca3-b987-a156fd1fd815
+Error Number:208,State:1,Class:16
+
+
+发生时间：2022_12_06 11:48:15    System.Data.SqlClient.SqlException (0x80131904): 对象名 '生产工单' 无效。
+   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+ClientConnectionId:327d1ba3-13ca-499a-a759-6569ee1256f6
+Error Number:208,State:1,Class:16
+
+
+发生时间：2022_12_06 11:50:13    System.Data.SqlClient.SqlException (0x80131904): 对象名 '生产工单' 无效。
+   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+ClientConnectionId:6bd1e238-5703-4829-b8fc-fdad203f16a0
+Error Number:208,State:1,Class:16
+
+
+发生时间：2022_12_06 13:06:43    SqlSugar.SqlSugarException: Id can't  convert string to int32
+   在 SqlSugar.IDataReaderEntityBuilder`1.CheckType(List`1 invalidTypes, String bindProperyTypeName, String validPropertyType, String propertyName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindMethod(ILGenerator generator, EntityColumnInfo columnInfo, Int32 ordinal)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindField(ILGenerator generator, LocalBuilder result, EntityColumnInfo columnInfo, String fieldName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.CreateBuilder(Type type)
+   在 SqlSugar.DbBindAccessory.<>c__DisplayClass0_0`1.<GetEntityList>b__0()
+   在 SqlSugar.ReflectionInoCore`1.GetOrCreate(String cacheKey, Func`1 create)
+   在 SqlSugar.ReflectionInoCacheService.GetOrCreate[V](String cacheKey, Func`1 create, Int32 cacheDurationInSeconds)
+   在 SqlSugar.DbBindAccessory.GetEntityList[T](SqlSugarProvider context, IDataReader dataReader)
+   在 SqlSugar.DbBindProvider.DataReaderToList[T](Type type, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](Boolean isComplexModel, Type entityType, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+发生时间：2022_12_06 13:07:20    SqlSugar.SqlSugarException: Id can't  convert string to int32
+   在 SqlSugar.IDataReaderEntityBuilder`1.CheckType(List`1 invalidTypes, String bindProperyTypeName, String validPropertyType, String propertyName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindMethod(ILGenerator generator, EntityColumnInfo columnInfo, Int32 ordinal)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindField(ILGenerator generator, LocalBuilder result, EntityColumnInfo columnInfo, String fieldName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.CreateBuilder(Type type)
+   在 SqlSugar.DbBindAccessory.<>c__DisplayClass0_0`1.<GetEntityList>b__0()
+   在 SqlSugar.ReflectionInoCore`1.GetOrCreate(String cacheKey, Func`1 create)
+   在 SqlSugar.ReflectionInoCacheService.GetOrCreate[V](String cacheKey, Func`1 create, Int32 cacheDurationInSeconds)
+   在 SqlSugar.DbBindAccessory.GetEntityList[T](SqlSugarProvider context, IDataReader dataReader)
+   在 SqlSugar.DbBindProvider.DataReaderToList[T](Type type, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](Boolean isComplexModel, Type entityType, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+发生时间：2022_12_06 13:08:57    SqlSugar.SqlSugarException: 计划开始时间 can't  convert string to datetime
+   在 SqlSugar.IDataReaderEntityBuilder`1.CheckType(List`1 invalidTypes, String bindProperyTypeName, String validPropertyType, String propertyName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindMethod(ILGenerator generator, EntityColumnInfo columnInfo, Int32 ordinal)
+   在 SqlSugar.IDataReaderEntityBuilder`1.BindField(ILGenerator generator, LocalBuilder result, EntityColumnInfo columnInfo, String fieldName)
+   在 SqlSugar.IDataReaderEntityBuilder`1.CreateBuilder(Type type)
+   在 SqlSugar.DbBindAccessory.<>c__DisplayClass0_0`1.<GetEntityList>b__0()
+   在 SqlSugar.ReflectionInoCore`1.GetOrCreate(String cacheKey, Func`1 create)
+   在 SqlSugar.ReflectionInoCacheService.GetOrCreate[V](String cacheKey, Func`1 create, Int32 cacheDurationInSeconds)
+   在 SqlSugar.DbBindAccessory.GetEntityList[T](SqlSugarProvider context, IDataReader dataReader)
+   在 SqlSugar.DbBindProvider.DataReaderToList[T](Type type, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](Boolean isComplexModel, Type entityType, IDataReader dataReader)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 Microvast.Service.通用Service.加载工单(String aa) 位置 E:\微宏git二次拉取\Microvast.Service\通用Service.cs:行号 32
+   在 Test.NewFolder1.搅拌正极主界面.加载工单() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 641
+   在 Test.NewFolder1.搅拌正极主界面..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\UserControl\主界面\搅拌正极主界面.cs:行号 41
+   在 ScreenDemo1.Form1..ctor() 位置 E:\微宏git二次拉取\ScreenDemo1\Form1.cs:行号 32
+   在 Test.登录.登录按钮_Click(Object sender, EventArgs e) 位置 E:\微宏git二次拉取\ScreenDemo1\登录.cs:行号 119
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 Sunny.UI.UIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

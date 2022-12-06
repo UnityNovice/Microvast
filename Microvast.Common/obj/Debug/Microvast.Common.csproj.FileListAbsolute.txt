@@ -1,0 +1,56 @@
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.dll
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.pdb
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\bin\Debug\SqlSugar.dll
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.dll
+E:\Git\C#\最新\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\SqlSugar.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\SqlSugar.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\obj\Debug\Microvast.Common.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Microvast.Common.dll.config
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\MiniExcel.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\Microvast.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\Microvast.Common.dll.config
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\Microvast.Common.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\Microvast.Common.pdb
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\MiniExcel.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\SqlSugar.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\obj\Debug\Microvast.Common.dll
+C:\Users\2200214\Source\Repos\weihong\Microvast.Common\obj\Debug\Microvast.Common.pdb
+C:\Users\2200214\source\repos\weihong\Microvast.Common\bin\Debug\S7.Net.dll
+C:\Users\2200214\source\repos\weihong\Microvast.Common\bin\Debug\S7.Net.xml
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\Microvast.Common.dll.config
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\Microvast.Common.dll
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\Microvast.Common.pdb
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\MiniExcel.dll
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\Newtonsoft.Json.dll
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\S7.Net.dll
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\SqlSugar.dll
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\Newtonsoft.Json.xml
+E:\微宏git二次拉取\Microvast.Common\bin\Debug\S7.Net.xml
+E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.dll
+E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.pdb

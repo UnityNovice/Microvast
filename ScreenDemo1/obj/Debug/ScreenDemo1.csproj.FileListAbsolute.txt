@@ -1,0 +1,234 @@
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.dll
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.登录.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+D:\EysenWorkSpace\04 Test\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.登录.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\EysenWorkSpace\最新\ScreenDemo1\ScreenDemo1\bin\Debug\SqlSugar.dll
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.dll
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.错误提示.错误提示.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\Test.登录.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.通用模板.resources
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.dll
+E:\Git\C#\最新\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\SqlSugar.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.dll
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.通用模板.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.错误提示.错误提示.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.登录.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.报废.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.拆批.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.合批.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.参数设置.resources
+D:\EysenWorkSpace\01 项目资料\前段数采\程序\20221012\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.AGV叫料.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Model.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\SunnyUI.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Model.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Components.通用弹窗.通用弹窗.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.通用模板.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.错误提示.错误提示.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.AGV叫料.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.拆批.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.报废.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.合批.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.参数设置.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\Test.登录.resources
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\MiniExcel.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Newtonsoft.Json.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Common.dll.config
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Newtonsoft.Json.xml
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Service.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.Service.pdb
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.ViewModel.dll
+E:\Git\C#\ScreenDemo1(1)\ScreenDemo1\ScreenDemo1\bin\Debug\Microvast.ViewModel.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Common.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Model.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Service.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.ViewModel.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\SunnyUI.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\MiniExcel.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Common.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Common.dll.config
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Model.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.Service.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Microvast.ViewModel.pdb
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Components.通用弹窗.通用弹窗.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.通用模板.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.错误提示.错误提示.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.AGV叫料.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.拆批.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.报废.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.合批.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.参数设置.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\Test.登录.resources
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+C:\Users\2200214\Source\Repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+C:\Users\2200214\source\repos\weihong\ScreenDemo1\bin\Debug\S7.Net.dll
+C:\Users\2200214\source\repos\weihong\ScreenDemo1\bin\Debug\S7.Net.xml
+C:\Users\2200214\source\repos\weihong\ScreenDemo1\bin\Debug\HslCommunication.dll
+C:\Users\2200214\source\repos\weihong\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.数采报表.resources
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\ScreenDemo1.exe.config
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\ScreenDemo1.exe
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\ScreenDemo1.pdb
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Common.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Model.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Service.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.ViewModel.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\S7.Net.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\SunnyUI.Common.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\SunnyUI.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\MiniExcel.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Newtonsoft.Json.dll
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Common.pdb
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Common.dll.config
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Model.pdb
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.Service.pdb
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Microvast.ViewModel.pdb
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\S7.Net.xml
+E:\微宏git二次拉取\ScreenDemo1\bin\Debug\Newtonsoft.Json.xml
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.AssemblyReference.cache
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.SuggestedBindingRedirects.cache
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Components.通用弹窗.通用弹窗.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Form1.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.通用模板.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.错误提示.错误提示.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Properties.Resources.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.AGV叫料.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.拆批.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.报废.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.SmallForm.合批.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌正极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.搅拌负极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布正极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.涂布负极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压负极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.辊压正极主界面.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.参数设置.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.Pages.基础信息.数采报表.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.NewFolder1.用户管理.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\Test.登录.resources
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.GenerateResource.cache
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInputs.cache
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.exe
+E:\微宏git二次拉取\ScreenDemo1\obj\Debug\ScreenDemo1.pdb

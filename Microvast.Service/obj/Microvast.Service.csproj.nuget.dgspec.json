@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj",
+        "projectName": "Microvast.Common",
+        "projectPath": "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj",
+        "projectName": "Microvast.Model",
+        "projectPath": "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj",
+        "projectName": "Microvast.Service",
+        "projectPath": "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj",
+        "packagesPath": "C:\\Users\\CaiJiale\\.nuget\\packages\\",
+        "outputPath": "E:\\微宏git二次拉取\\Microvast.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\编程软件\\VisualStudio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CaiJiale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj": {
+                "projectPath": "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj"
+              },
+              "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj": {
+                "projectPath": "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj"
+              },
+              "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj": {
+                "projectPath": "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "SqlSugar": {
+              "target": "Package",
+              "version": "[5.1.3.30, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj",
+        "projectName": "Microvast.ViewModel",
+        "projectPath": "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

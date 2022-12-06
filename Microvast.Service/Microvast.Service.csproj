@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SqlSugar" Version="5.1.3.30" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Microvast.Common\Microvast.Common.csproj" />
+    <ProjectReference Include="..\Microvast.Model\Microvast.Model.csproj" />
+    <ProjectReference Include="..\Microvast.ViewModel\Microvast.ViewModel.csproj" />
+  </ItemGroup>
+</Project>

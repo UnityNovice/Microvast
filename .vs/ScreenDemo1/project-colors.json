@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d818aac4-6048-4965-8657-c7317ef60c42": {
+      "ProjectGuid": "d818aac4-6048-4965-8657-c7317ef60c42",
+      "DisplayName": "ScreenDemo1",
+      "ColorIndex": 0
+    },
+    "e049778f-be92-439d-ab8d-1de1e8240d36": {
+      "ProjectGuid": "e049778f-be92-439d-ab8d-1de1e8240d36",
+      "DisplayName": "Microvast.Model",
+      "ColorIndex": 1
+    },
+    "bc7b50ae-63eb-4039-a9c7-dc1ea2630122": {
+      "ProjectGuid": "bc7b50ae-63eb-4039-a9c7-dc1ea2630122",
+      "DisplayName": "4.DAL",
+      "ColorIndex": 2
+    },
+    "55c1e223-1ec1-4480-beaf-1844acd55b0a": {
+      "ProjectGuid": "55c1e223-1ec1-4480-beaf-1844acd55b0a",
+      "DisplayName": "Microvast.Common",
+      "ColorIndex": 3
+    },
+    "f8338e65-c9d4-4d63-8160-ff4a00d39a83": {
+      "ProjectGuid": "f8338e65-c9d4-4d63-8160-ff4a00d39a83",
+      "DisplayName": "1.Start",
+      "ColorIndex": 4
+    },
+    "d842a269-fb0d-4f44-bbdc-fdcbbb5b82cf": {
+      "ProjectGuid": "d842a269-fb0d-4f44-bbdc-fdcbbb5b82cf",
+      "DisplayName": "Microvast.Service",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
