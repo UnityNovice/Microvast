@@ -16,3 +16,9 @@ E:\微宏git二次拉取\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.cspro
 E:\微宏git二次拉取\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.CoreCompileInputs.cache
 E:\微宏git二次拉取\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.dll
 E:\微宏git二次拉取\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.pdb
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\bin\Debug\Microvast.ViewModel.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\bin\Debug\Microvast.ViewModel.pdb
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.AssemblyReference.cache
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.pdb

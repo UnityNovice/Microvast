@@ -54,3 +54,17 @@ E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.csproj.Core
 E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
 E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.dll
 E:\微宏git二次拉取\Microvast.Common\obj\Debug\Microvast.Common.pdb
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\Microvast.Common.dll.config
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\Microvast.Common.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\Microvast.Common.pdb
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\MiniExcel.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\S7.Net.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\SqlSugar.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\bin\Debug\S7.Net.xml
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\obj\Debug\Microvast.Common.csproj.AssemblyReference.cache
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\obj\Debug\Microvast.Common.csproj.CoreCompileInputs.cache
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\obj\Debug\Microvast.Common.csproj.CopyComplete
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\obj\Debug\Microvast.Common.dll
+C:\Users\2200214\Source\Repos\Microvast\Microvast.Common\obj\Debug\Microvast.Common.pdb

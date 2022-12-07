@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "beH3QnEmGz0EQfZ7zQwuXE/hhQnlFDa/whQoB6OvgQSvkZWNb7qjFDi1sXMQz0LInOL0+h0Imc6ecfKDGuikTQ==",
+  "dgSpecHash": "ICNV79a2PSCGxAPdp/aJCaB/amiB5uUJ4YK4UxUCh0ccPsyuAffWi3gkTfMrVFKXjCeJQXBMCbmamYzTxJOo5Q==",
   "success": true,
-  "projectFilePath": "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj",
+  "projectFilePath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Service\\Microvast.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\CaiJiale\\.nuget\\packages\\sqlsugar\\5.1.3.30\\sqlsugar.5.1.3.30.nupkg.sha512"
+    "C:\\Users\\2200214\\.nuget\\packages\\sqlsugar\\5.1.3.30\\sqlsugar.5.1.3.30.nupkg.sha512"
   ],
   "logs": []
 }

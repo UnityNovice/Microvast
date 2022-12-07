@@ -78,30 +78,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CaiJiale\\.nuget\\packages\\": {},
-    "D:\\编程软件\\VisualStudio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\2200214\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj",
+      "projectUniqueName": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Service\\Microvast.Service.csproj",
       "projectName": "Microvast.Service",
-      "projectPath": "E:\\微宏git二次拉取\\Microvast.Service\\Microvast.Service.csproj",
-      "packagesPath": "C:\\Users\\CaiJiale\\.nuget\\packages\\",
-      "outputPath": "E:\\微宏git二次拉取\\Microvast.Service\\obj\\",
+      "projectPath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Service\\Microvast.Service.csproj",
+      "packagesPath": "C:\\Users\\2200214\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\编程软件\\VisualStudio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\CaiJiale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "D:\\Documents and Settings\\2200214\\Application Data\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net48"
@@ -114,14 +104,14 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj": {
-              "projectPath": "E:\\微宏git二次拉取\\Microvast.Common\\Microvast.Common.csproj"
+            "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Common\\Microvast.Common.csproj": {
+              "projectPath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Common\\Microvast.Common.csproj"
             },
-            "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj": {
-              "projectPath": "E:\\微宏git二次拉取\\Microvast.Model\\Microvast.Model.csproj"
+            "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Model\\Microvast.Model.csproj": {
+              "projectPath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.Model\\Microvast.Model.csproj"
             },
-            "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj": {
-              "projectPath": "E:\\微宏git二次拉取\\Microvast.ViewModel\\Microvast.ViewModel.csproj"
+            "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.ViewModel\\Microvast.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\2200214\\Source\\Repos\\Microvast\\Microvast.ViewModel\\Microvast.ViewModel.csproj"
             }
           }
         }
@@ -141,7 +131,7 @@
             "version": "[5.1.3.30, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
