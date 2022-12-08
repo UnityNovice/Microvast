@@ -37,3 +37,11 @@ C:\Users\2200214\Source\Repos\Microvast\Microvast.Model\obj\Debug\Microvast.Mode
 C:\Users\2200214\Source\Repos\Microvast\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
 C:\Users\2200214\Source\Repos\Microvast\Microvast.Model\obj\Debug\Microvast.Model.dll
 C:\Users\2200214\Source\Repos\Microvast\Microvast.Model\obj\Debug\Microvast.Model.pdb
+D:\Git\C#\最新微宏\Microvast.Model\bin\Debug\Microvast.Model.dll
+D:\Git\C#\最新微宏\Microvast.Model\bin\Debug\Microvast.Model.pdb
+D:\Git\C#\最新微宏\Microvast.Model\bin\Debug\SqlSugar.dll
+D:\Git\C#\最新微宏\Microvast.Model\obj\Debug\Microvast.Model.csproj.AssemblyReference.cache
+D:\Git\C#\最新微宏\Microvast.Model\obj\Debug\Microvast.Model.csproj.CoreCompileInputs.cache
+D:\Git\C#\最新微宏\Microvast.Model\obj\Debug\Microvast.Model.csproj.CopyComplete
+D:\Git\C#\最新微宏\Microvast.Model\obj\Debug\Microvast.Model.dll
+D:\Git\C#\最新微宏\Microvast.Model\obj\Debug\Microvast.Model.pdb

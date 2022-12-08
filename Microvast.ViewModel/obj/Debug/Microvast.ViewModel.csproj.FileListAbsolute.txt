@@ -22,3 +22,9 @@ C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.
 C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.CoreCompileInputs.cache
 C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.dll
 C:\Users\2200214\Source\Repos\Microvast\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.pdb
+D:\Git\C#\最新微宏\Microvast.ViewModel\bin\Debug\Microvast.ViewModel.dll
+D:\Git\C#\最新微宏\Microvast.ViewModel\bin\Debug\Microvast.ViewModel.pdb
+D:\Git\C#\最新微宏\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.AssemblyReference.cache
+D:\Git\C#\最新微宏\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.csproj.CoreCompileInputs.cache
+D:\Git\C#\最新微宏\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.dll
+D:\Git\C#\最新微宏\Microvast.ViewModel\obj\Debug\Microvast.ViewModel.pdb
