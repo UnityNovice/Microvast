@@ -26,10 +26,14 @@ namespace Microvast.Service
             sqlSugarServerHelper.db.Insertable(生产报工).ExecuteCommand();
         }
         #endregion
-        public static List<WorkOrder> 加载工单(string aa)
+        public static List<WorkOrder> 加载工单(string aa,out string selectOrder)
         {
+            IniReadWriteOther setting = new IniReadWriteOther();
+            setting.inipath = System.IO.Directory.GetCurrentDirectory() + "\\config.ini";
+            string 产线编号 = setting.IniReadValue("Setting", "当前产线");
             SqlSugarServerHelper sqlSugarServerHelper = new SqlSugarServerHelper();
-            var 生产工单s = sqlSugarServerHelper.db.Queryable<工单基础数据>().Where(a => a.工单类型.Contains("WorkOrder") && a.工单当前状态.Contains("生产中")).ToList();
+            var 生产工单s = sqlSugarServerHelper.db.Queryable<工单基础数据>().Where(a=> a.工单当前状态.Contains("未生产")&&a.产线编号.Contains(产线编号)).ToList();
+            //var 生产工单s = sqlSugarServerHelper.db.Queryable<工单基础数据>().Where(a => a.工单类型.Contains("WorkOrder") && a.工单当前状态.Contains("生产中")).ToList();
             List<WorkOrder> workOrders = new List<WorkOrder>();
             for (int i = 0; i < 生产工单s.Count; i++)
             {
@@ -39,6 +43,8 @@ namespace Microvast.Service
                 workOrder.Priority = 生产工单s[i].优先级;//"一般";
                 workOrders.Add(workOrder);
             }
+            var 生产中工单= sqlSugarServerHelper.db.Queryable<工单基础数据>().Where(a => a.工单当前状态.Contains("生产中") && a.产线编号.Contains(产线编号)).First();
+            selectOrder = 生产中工单.工单;
             return workOrders;
         }
 

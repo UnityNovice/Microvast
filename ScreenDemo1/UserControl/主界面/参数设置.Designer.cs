@@ -50,9 +50,19 @@
             this.label13 = new System.Windows.Forms.Label();
             this.中间数据库地址txt = new Sunny.UI.UITextBox();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.ProcessNotxt = new Sunny.UI.UIComboBox();
-            this.label3 = new System.Windows.Forms.Label();
             this.PLCType = new Sunny.UI.UIComboBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.设备编码txt = new Sunny.UI.UITextBox();
+            this.当前产线txt = new Sunny.UI.UITextBox();
+            this.当前工序物料编码txt = new Sunny.UI.UITextBox();
+            this.当前配置工序1txt = new Sunny.UI.UITextBox();
+            this.当前工序1物料编码txt = new Sunny.UI.UITextBox();
+            this.当前配置工序txt = new Sunny.UI.UITextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -62,7 +72,7 @@
             // 
             this.PLC_IPtxt.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.PLC_IPtxt.Font = new System.Drawing.Font("微软雅黑", 14F);
-            this.PLC_IPtxt.Location = new System.Drawing.Point(221, 100);
+            this.PLC_IPtxt.Location = new System.Drawing.Point(207, 39);
             this.PLC_IPtxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.PLC_IPtxt.MinimumSize = new System.Drawing.Size(1, 16);
             this.PLC_IPtxt.Name = "PLC_IPtxt";
@@ -78,7 +88,7 @@
             this.label36.AutoSize = true;
             this.label36.Font = new System.Drawing.Font("微软雅黑", 14F);
             this.label36.ForeColor = System.Drawing.Color.Black;
-            this.label36.Location = new System.Drawing.Point(52, 96);
+            this.label36.Location = new System.Drawing.Point(76, 40);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(114, 25);
             this.label36.TabIndex = 20;
@@ -115,7 +125,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("微软雅黑", 14F);
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(35, 45);
+            this.label2.Location = new System.Drawing.Point(59, 296);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(131, 25);
             this.label2.TabIndex = 24;
@@ -405,9 +415,19 @@
             // panel3
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Controls.Add(this.当前配置工序txt);
+            this.panel3.Controls.Add(this.当前工序1物料编码txt);
+            this.panel3.Controls.Add(this.当前工序物料编码txt);
+            this.panel3.Controls.Add(this.当前产线txt);
+            this.panel3.Controls.Add(this.当前配置工序1txt);
+            this.panel3.Controls.Add(this.设备编码txt);
+            this.panel3.Controls.Add(this.label15);
+            this.panel3.Controls.Add(this.label16);
+            this.panel3.Controls.Add(this.label12);
+            this.panel3.Controls.Add(this.label11);
+            this.panel3.Controls.Add(this.label14);
             this.panel3.Controls.Add(this.PLCType);
             this.panel3.Controls.Add(this.label3);
-            this.panel3.Controls.Add(this.ProcessNotxt);
             this.panel3.Controls.Add(this.label2);
             this.panel3.Controls.Add(this.PLC_IPtxt);
             this.panel3.Controls.Add(this.label36);
@@ -415,40 +435,6 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(528, 660);
             this.panel3.TabIndex = 32;
-            // 
-            // ProcessNotxt
-            // 
-            this.ProcessNotxt.DataSource = null;
-            this.ProcessNotxt.FillColor = System.Drawing.Color.White;
-            this.ProcessNotxt.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.ProcessNotxt.Items.AddRange(new object[] {
-            "正极搅拌",
-            "负极搅拌",
-            "正极涂布",
-            "负极涂布",
-            "正极辊压",
-            "负极辊压"});
-            this.ProcessNotxt.Location = new System.Drawing.Point(221, 44);
-            this.ProcessNotxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.ProcessNotxt.MinimumSize = new System.Drawing.Size(63, 0);
-            this.ProcessNotxt.Name = "ProcessNotxt";
-            this.ProcessNotxt.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
-            this.ProcessNotxt.Size = new System.Drawing.Size(236, 26);
-            this.ProcessNotxt.TabIndex = 25;
-            this.ProcessNotxt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ProcessNotxt.Watermark = "";
-            this.ProcessNotxt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("微软雅黑", 14F);
-            this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(76, 157);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(90, 25);
-            this.label3.TabIndex = 22;
-            this.label3.Text = "PLC类型:";
             // 
             // PLCType
             // 
@@ -461,7 +447,7 @@
             "Smart",
             "200",
             "300"});
-            this.PLCType.Location = new System.Drawing.Point(221, 156);
+            this.PLCType.Location = new System.Drawing.Point(207, 103);
             this.PLCType.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.PLCType.MinimumSize = new System.Drawing.Size(63, 0);
             this.PLCType.Name = "PLCType";
@@ -471,6 +457,162 @@
             this.PLCType.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.PLCType.Watermark = "";
             this.PLCType.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label3.ForeColor = System.Drawing.Color.Black;
+            this.label3.Location = new System.Drawing.Point(100, 104);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(90, 25);
+            this.label3.TabIndex = 22;
+            this.label3.Text = "PLC类型:";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label11.ForeColor = System.Drawing.Color.Black;
+            this.label11.Location = new System.Drawing.Point(21, 360);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(169, 25);
+            this.label11.TabIndex = 26;
+            this.label11.Text = "当前工序物料编码:";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label12.ForeColor = System.Drawing.Color.Black;
+            this.label12.Location = new System.Drawing.Point(10, 488);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(180, 25);
+            this.label12.TabIndex = 30;
+            this.label12.Text = "当前工序1物料编码:";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label14.ForeColor = System.Drawing.Color.Black;
+            this.label14.Location = new System.Drawing.Point(48, 424);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(142, 25);
+            this.label14.TabIndex = 28;
+            this.label14.Text = "当前配置工序1:";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label15.ForeColor = System.Drawing.Color.Black;
+            this.label15.Location = new System.Drawing.Point(97, 232);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(93, 25);
+            this.label15.TabIndex = 34;
+            this.label15.Text = "设备编码:";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.label16.ForeColor = System.Drawing.Color.Black;
+            this.label16.Location = new System.Drawing.Point(97, 168);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(93, 25);
+            this.label16.TabIndex = 32;
+            this.label16.Text = "当前产线:";
+            // 
+            // 设备编码txt
+            // 
+            this.设备编码txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.设备编码txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.设备编码txt.Location = new System.Drawing.Point(207, 231);
+            this.设备编码txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.设备编码txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.设备编码txt.Name = "设备编码txt";
+            this.设备编码txt.ShowText = false;
+            this.设备编码txt.Size = new System.Drawing.Size(236, 26);
+            this.设备编码txt.TabIndex = 35;
+            this.设备编码txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.设备编码txt.Watermark = "";
+            this.设备编码txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // 当前产线txt
+            // 
+            this.当前产线txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.当前产线txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.当前产线txt.Location = new System.Drawing.Point(207, 167);
+            this.当前产线txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.当前产线txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.当前产线txt.Name = "当前产线txt";
+            this.当前产线txt.ShowText = false;
+            this.当前产线txt.Size = new System.Drawing.Size(236, 26);
+            this.当前产线txt.TabIndex = 36;
+            this.当前产线txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.当前产线txt.Watermark = "";
+            this.当前产线txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // 当前工序物料编码txt
+            // 
+            this.当前工序物料编码txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.当前工序物料编码txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.当前工序物料编码txt.Location = new System.Drawing.Point(207, 359);
+            this.当前工序物料编码txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.当前工序物料编码txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.当前工序物料编码txt.Name = "当前工序物料编码txt";
+            this.当前工序物料编码txt.ShowText = false;
+            this.当前工序物料编码txt.Size = new System.Drawing.Size(236, 26);
+            this.当前工序物料编码txt.TabIndex = 36;
+            this.当前工序物料编码txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.当前工序物料编码txt.Watermark = "";
+            this.当前工序物料编码txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // 当前配置工序1txt
+            // 
+            this.当前配置工序1txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.当前配置工序1txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.当前配置工序1txt.Location = new System.Drawing.Point(207, 423);
+            this.当前配置工序1txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.当前配置工序1txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.当前配置工序1txt.Name = "当前配置工序1txt";
+            this.当前配置工序1txt.ShowText = false;
+            this.当前配置工序1txt.Size = new System.Drawing.Size(236, 26);
+            this.当前配置工序1txt.TabIndex = 37;
+            this.当前配置工序1txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.当前配置工序1txt.Watermark = "";
+            this.当前配置工序1txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // 当前工序1物料编码txt
+            // 
+            this.当前工序1物料编码txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.当前工序1物料编码txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.当前工序1物料编码txt.Location = new System.Drawing.Point(207, 487);
+            this.当前工序1物料编码txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.当前工序1物料编码txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.当前工序1物料编码txt.Name = "当前工序1物料编码txt";
+            this.当前工序1物料编码txt.ShowText = false;
+            this.当前工序1物料编码txt.Size = new System.Drawing.Size(236, 26);
+            this.当前工序1物料编码txt.TabIndex = 38;
+            this.当前工序1物料编码txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.当前工序1物料编码txt.Watermark = "";
+            this.当前工序1物料编码txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // 当前配置工序txt
+            // 
+            this.当前配置工序txt.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.当前配置工序txt.Font = new System.Drawing.Font("微软雅黑", 14F);
+            this.当前配置工序txt.Location = new System.Drawing.Point(207, 295);
+            this.当前配置工序txt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.当前配置工序txt.MinimumSize = new System.Drawing.Size(1, 16);
+            this.当前配置工序txt.Name = "当前配置工序txt";
+            this.当前配置工序txt.ShowText = false;
+            this.当前配置工序txt.Size = new System.Drawing.Size(236, 26);
+            this.当前配置工序txt.TabIndex = 38;
+            this.当前配置工序txt.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.当前配置工序txt.Watermark = "";
+            this.当前配置工序txt.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
             // 
             // 参数设置
             // 
@@ -492,6 +634,7 @@
             this.panel3.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
         #endregion
         private Sunny.UI.UITextBox PLC_IPtxt;
@@ -519,8 +662,18 @@
         private System.Windows.Forms.Label label13;
         private Sunny.UI.UITextBox 中间数据库地址txt;
         private System.Windows.Forms.Panel panel3;
-        private Sunny.UI.UIComboBox ProcessNotxt;
         private Sunny.UI.UIComboBox PLCType;
         private System.Windows.Forms.Label label3;
+        private Sunny.UI.UITextBox 当前产线txt;
+        private Sunny.UI.UITextBox 设备编码txt;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label14;
+        private Sunny.UI.UITextBox 当前配置工序txt;
+        private Sunny.UI.UITextBox 当前工序1物料编码txt;
+        private Sunny.UI.UITextBox 当前工序物料编码txt;
+        private Sunny.UI.UITextBox 当前配置工序1txt;
     }
 }

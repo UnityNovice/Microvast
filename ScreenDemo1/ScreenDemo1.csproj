@@ -245,7 +245,9 @@
     <EmbeddedResource Include="登录.resx">
       <DependentUpon>登录.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="bin\Debug\config.ini" />
+    <None Include="bin\Debug\config.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

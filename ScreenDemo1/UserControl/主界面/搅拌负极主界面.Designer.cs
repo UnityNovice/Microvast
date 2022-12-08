@@ -105,6 +105,7 @@
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
+            this.当前工单号label = new System.Windows.Forms.Label();
             this.groupBox4.SuspendLayout();
             this.groupBox8.SuspendLayout();
             this.groupBox7.SuspendLayout();
@@ -675,6 +676,7 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox2.Controls.Add(this.当前工单号label);
             this.groupBox2.Controls.Add(this.WorkOrderPanel);
             this.groupBox2.Controls.Add(this.当前选择工单);
             this.groupBox2.Controls.Add(this.读取工单);
@@ -1026,7 +1028,7 @@
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.Font = new System.Drawing.Font("微软雅黑", 9F);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Transparent;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
@@ -1385,6 +1387,17 @@
             this.label15.TabIndex = 2;
             this.label15.Text = "设备:";
             // 
+            // 当前工单号label
+            // 
+            this.当前工单号label.AutoSize = true;
+            this.当前工单号label.Font = new System.Drawing.Font("微软雅黑", 14F, System.Drawing.FontStyle.Bold);
+            this.当前工单号label.ForeColor = System.Drawing.Color.Black;
+            this.当前工单号label.Location = new System.Drawing.Point(119, 37);
+            this.当前工单号label.Name = "当前工单号label";
+            this.当前工单号label.Size = new System.Drawing.Size(107, 26);
+            this.当前工单号label.TabIndex = 20;
+            this.当前工单号label.Text = "当前工单：";
+            // 
             // 搅拌负极主界面
             // 
             this.BackColor = System.Drawing.Color.Transparent;
@@ -1422,6 +1435,7 @@
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.ResumeLayout(false);
+
         }
         #endregion
         private System.Windows.Forms.Label label4;
@@ -1499,5 +1513,6 @@
         private Sunny.UI.UIButton 投料口1;
         private Sunny.UI.UITextBox 当前物料二维码txt;
         private Sunny.UI.UIButton uiButton2;
+        private System.Windows.Forms.Label 当前工单号label;
     }
 }

@@ -71,17 +71,17 @@ namespace Test.NewFolder1
                 本地数据库地址txt.Text = Setting.IniReadValue("Setting", "中间数据库地址");
                 return;
             }
-            if (ProcessNotxt.Text == "")
+            if (当前配置工序txt.Text == "")
             {
                 MessageBox.Show("工序错误：不可为空！");
-                ProcessNotxt.Text = Setting.IniReadValue("Setting", "当前工序");
+                当前配置工序txt.Text = Setting.IniReadValue("Setting", "当前工序");
                 return;
             }
             DialogResult dr = MessageBox.Show("请确认是否写入？", "修改参数", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (dr == DialogResult.OK)
             {
                 Setting.IniWriteValue("Setting", "PLC_IP", PLC_IPtxt.Text.Trim());
-                Setting.IniWriteValue("Setting", "当前工序", ProcessNotxt.Text.Trim());
+                Setting.IniWriteValue("Setting", "当前工序", 当前配置工序txt.Text.Trim());
                 Setting.IniWriteValue("Setting", "本地数据库地址", 本地数据库地址txt.Text.Trim());
                 Setting.IniWriteValue("Setting", "本地数据库名", 本地数据库名txt.Text.Trim());
                 Setting.IniWriteValue("Setting", "本地数据库用户名", 本地数据库用户名txt.Text.Trim());
@@ -90,6 +90,17 @@ namespace Test.NewFolder1
                 Setting.IniWriteValue("Setting", "中间数据库名", 中间数据库名txt.Text.Trim());
                 Setting.IniWriteValue("Setting", "中间数据库用户名", 中间数据库用户名txt.Text.Trim());
                 Setting.IniWriteValue("Setting", "中间数据库密码", 中间数据库密码txt.Text.Trim());
+
+                Setting.IniWriteValue("Setting", "当前产线", 当前产线txt.Text.Trim());
+                Setting.IniWriteValue("Setting", "当前设备", 设备编码txt.Text.Trim());
+                Setting.IniWriteValue("Setting", "当前工序", 当前配置工序txt.Text.Trim());
+                Setting.IniWriteValue("Setting", "半成品物料编码", 当前工序物料编码txt.Text.Trim());
+                Setting.IniWriteValue("Setting", "当前工序1", 当前配置工序1txt.Text.Trim());
+                Setting.IniWriteValue("Setting", "工序1半成品物料编码", 当前工序1物料编码txt.Text.Trim());
+
+
+
+
                 MessageBox.Show("写入完成");
             }
             else
@@ -160,18 +171,8 @@ namespace Test.NewFolder1
         #endregion
         private void ReadSetting()
         {
-            //PLC_IPtxt.Text = "";
-            //ProcessNotxt.Text = "";
-            //本地数据库地址txt.Text = "";
-            //本地数据库名txt.Text = "";
-            //本地数据库用户名txt.Text = "";
-            //本地数据库密码txt.Text = "";
-            //中间数据库地址txt.Text = "";
-            //中间数据库名txt.Text = "";
-            //中间数据库用户名txt.Text = "";
-            //中间数据库密码txt.Text = "";
+
             PLC_IPtxt.Text = Setting.IniReadValue("Setting", "PLC_IP");
-            ProcessNotxt.Text = Setting.IniReadValue("Setting", "当前工序");
             PLCType.Text = Setting.IniReadValue("Setting", "PLC类型");
             本地数据库地址txt.Text = Setting.IniReadValue("Setting", "本地数据库地址");
             本地数据库名txt.Text = Setting.IniReadValue("Setting", "本地数据库名");
@@ -181,6 +182,16 @@ namespace Test.NewFolder1
             中间数据库名txt.Text = Setting.IniReadValue("Setting", "中间数据库名");
             中间数据库用户名txt.Text = Setting.IniReadValue("Setting", "中间数据库用户名");
             中间数据库密码txt.Text = Setting.IniReadValue("Setting", "中间数据库密码");
+            当前产线txt.Text = Setting.IniReadValue("Setting", "当前产线");
+            设备编码txt.Text = Setting.IniReadValue("Setting", "当前设备");
+            当前配置工序txt.Text = Setting.IniReadValue("Setting", "当前工序");
+            当前工序物料编码txt.Text = Setting.IniReadValue("Setting", "半成品物料编码");
+            当前配置工序1txt.Text = Setting.IniReadValue("Setting", "当前工序1");
+            当前工序1物料编码txt.Text = Setting.IniReadValue("Setting", "工序1半成品物料编码");
+
+
+
+
         }
     }
 }

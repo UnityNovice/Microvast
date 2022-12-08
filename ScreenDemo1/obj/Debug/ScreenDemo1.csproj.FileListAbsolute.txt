@@ -323,3 +323,4 @@ D:\Git\C#\最新微宏\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CoreCompileInput
 D:\Git\C#\最新微宏\ScreenDemo1\obj\Debug\ScreenDemo1.csproj.CopyComplete
 D:\Git\C#\最新微宏\ScreenDemo1\obj\Debug\ScreenDemo1.exe
 D:\Git\C#\最新微宏\ScreenDemo1\obj\Debug\ScreenDemo1.pdb
+D:\Git\C#\最新微宏\ScreenDemo1\bin\Debug\bin\Debug\config.ini

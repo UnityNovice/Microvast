@@ -46,6 +46,7 @@ namespace Test.NewFolder1
         public string ChooseWorkOrder = string.Empty;
         public string ChooseSlurrybatchnumber = string.Empty;
         IniReadWrite Setting = new IniReadWrite();
+        string 生产中工单 = "";
         #endregion
         #region 双缓冲
         protected override CreateParams CreateParams
@@ -573,8 +574,9 @@ namespace Test.NewFolder1
         public void 加载工单()
         {
             // var workOrders = 涂布Service.正极加载工单();
-            var workOrders = 通用Service.加载工单(当前配置工序);
+            var workOrders = 通用Service.加载工单(当前配置工序,out 生产中工单);
             AddWorkOrderPanel(workOrders);
+            this.当前工单号label.Text = 生产中工单;
         }
         #endregion
         private void uiButton1_Click(object sender, EventArgs e)

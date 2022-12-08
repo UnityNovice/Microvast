@@ -153,6 +153,7 @@
             this.Load += new System.EventHandler(this.登录_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
         #endregion
         private System.Windows.Forms.TextBox txtPassword;
