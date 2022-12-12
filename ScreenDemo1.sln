@@ -14,9 +14,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Common", "3.Common", "{8585F386-F3C5-49C5-A495-656D925C9E3E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.DAL", "4.DAL", "{BC7B50AE-63EB-4039-A9C7-DC1EA2630122}"
-	ProjectSection(SolutionItems) = preProject
-		D:\系统软件\微信\Documents\WeChat Files\wxid_x3bj4ssal3db21\FileStorage\File\2022-11\工艺路线.cs = D:\系统软件\微信\Documents\WeChat Files\wxid_x3bj4ssal3db21\FileStorage\File\2022-11\工艺路线.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.UnitTest", "5.UnitTest", "{7E5888CC-46DD-458F-9070-975296AD2DA0}"
 EndProject
@@ -27,6 +24,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microvast.Service", "Microvast.Service\Microvast.Service.csproj", "{D842A269-FB0D-4F44-BBDC-FDCBBB5B82CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microvast.ViewModel", "Microvast.ViewModel\Microvast.ViewModel.csproj", "{F0AA2A72-5B31-4C4B-A3A8-B2004D61661D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microvast.UnitTest.Framkwork", "Microvast.UnitTest.Framkwork\Microvast.UnitTest.Framkwork.csproj", "{40A232D7-4A81-4435-9496-65A4F9BF8179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +55,10 @@ Global
 		{F0AA2A72-5B31-4C4B-A3A8-B2004D61661D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AA2A72-5B31-4C4B-A3A8-B2004D61661D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AA2A72-5B31-4C4B-A3A8-B2004D61661D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A232D7-4A81-4435-9496-65A4F9BF8179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A232D7-4A81-4435-9496-65A4F9BF8179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A232D7-4A81-4435-9496-65A4F9BF8179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A232D7-4A81-4435-9496-65A4F9BF8179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +69,7 @@ Global
 		{55C1E223-1EC1-4480-BEAF-1844ACD55B0A} = {8585F386-F3C5-49C5-A495-656D925C9E3E}
 		{D842A269-FB0D-4F44-BBDC-FDCBBB5B82CF} = {514DEB44-F615-4993-B0FC-6F98EEF9CCE1}
 		{F0AA2A72-5B31-4C4B-A3A8-B2004D61661D} = {BC7B50AE-63EB-4039-A9C7-DC1EA2630122}
+		{40A232D7-4A81-4435-9496-65A4F9BF8179} = {7E5888CC-46DD-458F-9070-975296AD2DA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17FD8B48-CD0B-48C0-B86C-0D98844913F6}

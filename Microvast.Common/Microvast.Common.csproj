@@ -31,6 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Flurl, Version=3.0.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.3.0.6\lib\net472\Flurl.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl.Http, Version=3.2.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.Http.3.2.4\lib\net472\Flurl.Http.dll</HintPath>
+    </Reference>
     <Reference Include="MiniExcel, Version=1.28.5.0, Culture=neutral, PublicKeyToken=e7310002a53eac39, processorArchitecture=MSIL">
       <HintPath>..\packages\MiniExcel.1.28.5\lib\net45\MiniExcel.dll</HintPath>
     </Reference>
@@ -65,6 +71,7 @@
     <Compile Include="Utils\S7Helper.cs" />
     <Compile Include="Utils\TempMidTableSqlSugarServerHelper.cs" />
     <Compile Include="Utils\SqlSugarServerHelper.cs" />
+    <Compile Include="Utils\WebApiHelper.cs" />
     <Compile Include="Vuex\Store.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -44,6 +44,9 @@
     <Compile Include="WorkOrder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="扫描解析.cs" />
+    <Compile Include="获取批次号请求JSON.cs" />
+    <Compile Include="获取批次号返回JSON.cs" />
+    <Compile Include="解析批次号\ResultData.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
